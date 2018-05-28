@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio Recorder</string>
+
+    <string name="recording.add">Add</string>
+    <string name="recording.done">Recording ended</string>
+    <string name="recording.initialized">Tap the recording button to start recording.\nThe maximum recording time is 30 seconds.</string>
+    <string name="recording.paused">Recording paused</string>
+    <string name="recording.playing">Recording is playing…</string>
+    <string name="recording.recording">Recording…</string>
+    <string name="recording.retake">Retake</string>
+
+</resources>
